@@ -1,0 +1,5 @@
+config telegram_bot 'config'
+	option bot_token ''5769225272:AAGdvmoKJftPi93fM9lcs9mA1uTgV3xPVZE"
+	option chat_id ''5769225272"
+	option polling_time '1'
+	option timeout '30'
